@@ -3,5 +3,4 @@ flask_socketio
 eventlet
 flask_login
 pymongo
-os
 dotenv
