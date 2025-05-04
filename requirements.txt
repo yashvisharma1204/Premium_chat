@@ -2,7 +2,6 @@ flask
 flask_socketio
 eventlet
 flask_login
-pymongo.errors
 pymongo
 os
 dotenv
