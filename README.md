@@ -106,16 +106,26 @@ premium-chat/
 
 ## Screenshots 📸
 
-### Dashboard
-![Screenshot 2025-04-09 184608](https://github.com/user-attachments/assets/c268626c-6f29-4232-86ab-bfcf8e239b2e)
+### Main
+https://github.com/user-attachments/assets/59b04353-bf0b-49ee-8ac3-16b7fa5c56df
 
+### Login and Sign Up
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ab8eb362-ed63-4eff-a8de-9b12f83e6c11" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5ecff9eb-dc64-4958-867b-a91df0f665c6" />
+
+### Dashboard
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7d49152c-ba39-4bf3-a3f2-9ee99d3c6a2a" />
+
+### Spaces
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b5da6e88-899e-447d-a302-75f3289a8094" />
 
 ### Chat Room
-![Screenshot 2025-04-22 220213](https://github.com/user-attachments/assets/65034f09-5ec9-48b4-a3e7-9ad16c980bf6)
+https://github.com/user-attachments/assets/2a1f07af-3ee0-4cd7-9aab-0b688fc1f394
 
 
 ### Create Space
-![Screenshot 2025-04-13 172112](https://github.com/user-attachments/assets/38702d5f-0b12-4dec-b0dc-7bc48ac52576)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/515514c1-1115-4055-b4a1-a001883520ff" />
+
 
 
 ## Contributing 🤝
